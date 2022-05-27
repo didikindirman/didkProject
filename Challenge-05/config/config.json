@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "didk",
+    "password": "Didik123",
+    "database": "fsw_11",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "didk",
+    "password": "Didik123",
+    "database": "fsw_11",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "didk",
+    "password": "Didik123",
+    "database": "fsw_11",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
